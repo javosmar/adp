@@ -1,5 +1,5 @@
 Autor: Ing. Martin Acosta - 2020
-# Trabajo Práctico RPL - ADP - CESIoT - FIUBA
+# Trabajo Práctico RPL - ADP - CEIoT - FIUBA
 ## Introducción 🚀
 El protocolo RPL es un protocolo de enrutamiento para redes LLNs (Low-Power & Lossy Networks) las cuales son susceptibles a la pérdida de paquetes. Se trata de un protocolo proactivo y opera sobre la norma IEEE 802.15.4, optimizado para multisalto y soporta comunicación muchos-uno, uno-muchos y uno-uno.
 Es un protocolo que resulta de grán utilidad para la comunicación de dispositivos IoT.
